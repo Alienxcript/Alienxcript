@@ -1,4 +1,4 @@
-Learning Something.py and ML
+Learning Something.py
 
 
 <!---
