@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ## About Me
 - Python Developer  
 - Visual Artist & Digital Illustrator  
-- Learning Machine Learning  
+- Learning to teach machines to learn  
 
 ## Connect with Me
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/Novachrome_x377)
