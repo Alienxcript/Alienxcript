@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Hey, 👋 I'm **Nova**
 
 ## Currently Learning
--python
+- python
 - Machine Learning
 
 ## About Me
@@ -22,7 +22,6 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-orange?logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?logo=matplotlib)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 ![VSCode](https://img.shields.io/badge/VSCode-Visual%20Studio%20Code-007ACC?logo=visual-studio-code)
 ![ChoiceScript](https://img.shields.io/badge/ChoiceScript-Interactive%20Fiction-6e5494?style=flat-square)
