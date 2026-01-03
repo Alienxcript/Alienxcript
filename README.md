@@ -3,9 +3,10 @@ Alienxcript/Alienxcript is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hey, 👋 I'm **Nova** / Marvell
+# Hey, 👋 I'm **Nova**
 
-## Current Learning
+## Currently Learning
+-python
 - Machine Learning
 
 ## About Me
