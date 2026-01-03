@@ -5,14 +5,13 @@ You can click the Preview link to take a look at your changes.
 
 # Hey, 👋 I'm **Nova**
 
-## Currently Learning
-- python
-- Machine Learning
-
 ## About Me
 - Python Developer  
 - Visual Artist & Digital Illustrator  
-- Learning to teach machines to learn  
+- Learning to teach machines to learn
+- 
+## Currently Learning
+- Machine Learning
 
 ## Connect with Me
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/Novachrome_x377)
