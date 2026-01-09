@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 ## Hey, 👋 I'm **Nova**
 
 ### About Me
-- Python Developer  
-- Visual Artist & Digital Illustrator  
-- Learning to teach machines to learn
+- Python Developer
+- Data Analyst
+- Digital Illustrator  
  
 ### Currently Learning
 - Machine Learning
