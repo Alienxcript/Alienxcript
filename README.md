@@ -3,7 +3,7 @@ Alienxcript/Alienxcript is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hey, 👋 I'm **Nova**
+## Hey, 👋 I'm **Marvell**
 
 ### About Me
 - Python Developer
@@ -18,12 +18,14 @@ You can click the Preview link to take a look at your changes.
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/Novachrome_x377)
 
 ## Languages, Tools & Frameworks
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![NumPy](https://img.shields.io/badge/NumPy-orange?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
-![VSCode](https://img.shields.io/badge/VSCode-Visual%20Studio%20Code-007ACC?logo=visual-studio-code)
-![ChoiceScript](https://img.shields.io/badge/ChoiceScript-Interactive%20Fiction-6e5494?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![ChoiceScript](https://img.shields.io/badge/ChoiceScript-Interactive%20Fiction-6E40C9?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
