@@ -11,11 +11,11 @@ You can click the Preview link to take a look at your changes.
 - Digital Illustrator  
  
 ### Currently Learning
+- DSA
 - Machine Learning
 
 ## Connect with Me
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/Novachrome_x377)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/Novachrome_x377)
 
 ## Languages, Tools & Frameworks
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
@@ -25,3 +25,6 @@ You can click the Preview link to take a look at your changes.
 ![VSCode](https://img.shields.io/badge/VSCode-Visual%20Studio%20Code-007ACC?logo=visual-studio-code)
 ![ChoiceScript](https://img.shields.io/badge/ChoiceScript-Interactive%20Fiction-6e5494?style=flat-square)
 
+---
+
+## 💼 Open to collaborate on exciting projects!
