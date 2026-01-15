@@ -3,7 +3,7 @@ Alienxcript/Alienxcript is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hey, 👋 I'm **Marvell**
+## Hey there, 👋
 
 ### About Me
 - Python Developer
