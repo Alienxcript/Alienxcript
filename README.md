@@ -9,10 +9,12 @@ You can click the Preview link to take a look at your changes.
 - Python Developer
 - Data Analyst
 - Digital Illustrator  
- 
-### Currently Learning
-- DSA
 - Machine Learning
+- SQL (Advanced)
+
+### Interested In
+- DSA
+- AI Engineering
 
 ## Connect with Me
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/Novachrome_x377)
