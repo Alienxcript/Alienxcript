@@ -30,6 +30,10 @@ You can click the Preview link to take a look at your changes.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![ChoiceScript](https://img.shields.io/badge/ChoiceScript-Interactive%20Fiction-6E40C9?style=for-the-badge)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 ---
 
 ## 💼 Open to collaborate on exciting projects!
