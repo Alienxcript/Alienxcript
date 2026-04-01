@@ -3,7 +3,9 @@ Alienxcript/Alienxcript is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hey there, 👋
+## Hey there, it's Nova👋
+
+![bitbot head eye glow animation by Nova Lightsilver]([url](https://raw.githubusercontent.com/Alienxcript/brand-assets/refs/heads/main/animations/bitbot%20eye%20glow.gif))
 
 ### About Me
 - Python Developer
